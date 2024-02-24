@@ -5,6 +5,10 @@ ___
 <p align="center">
  <img width="600" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
+
+<p align="center">
+ <img width="600" src=https://wakatime.com/share/@018d9ffb-ef5f-4680-876e-e2b0bb1804e4/188f1707-1d92-4e16-b471-682bb828ebd2.svg alt="snake"/>
+</p>
 ## Обо мне
 
 Привет! Если ты здесь, то, возможно, уже видел мои проекты или читал мои статьи.
