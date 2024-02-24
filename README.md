@@ -29,9 +29,9 @@
 - **Мой Глаз бога:** [@I_god_im_bot](https://t.me/I_god_im_bot)
 
 ## Ссылки
-- [Мой GitHub](https://github.com/ваш_ник)
-- [Мой телеграмм бот](ссылка)
-- [Моя телеграмм группа](ссылка)
+- [Мой GitHub](https://github.com/AWProger)
+- [Мой телеграмм бот](https://t.me/ATTWhiteBot)
+- [Моя телеграмм группа](https://t.me/AWProgramer)
 
 ## Мои сайты
 - [d50.su](https://d50.su)
