@@ -2,7 +2,7 @@
 
 Начинающий программист на Python. Первую строчку кода написал 16 апреля 2022года. Но не понял что это было!)
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img width="600" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
 ## Обо мне
 
