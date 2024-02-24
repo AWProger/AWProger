@@ -18,7 +18,7 @@ ___
 </table>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AWProger)
-
+___
 ### 😄Обо мне
 
 Привет! Если ты здесь, то, возможно, уже видел мои проекты или читал мои статьи.
@@ -26,34 +26,34 @@ ___
 Я начинающий программист, специализирующийся на Python, HTML, CSS, и JavaScript. Моя цель - создавать полезные и интересные веб-приложения.
 
 👯**Люблю открытый код и активно участвую в open-source проектах.**
-
+___
 ### ⚡Навыки
-- Python
-- HTML
-- CSS
-- JavaScript
+- 🐍Python
+- 🚀 HTML, CSS, JavaScript
+- 📊 SQL LITE
 
+___
 ## 📫Сертификаты
 
 -**Stepic** [Личный профиль](https://stepik.org/users/742335051/profile)
 
 -**Stepic** [Pythone](https://stepik.org/cert/2370256)
 
-
+___
 ## ✨Контакты
 - **Телеграм:** [@AWhiteProgramer](https://t.me/AWProgramer)
 - **Email:** Lenn.white@yandex.ru
 - **Мой Глаз бога:** [@I_god_im_bot](https://t.me/I_god_im_bot)
-
+___
 ## 💬Ссылки
 - [Мой GitHub](https://github.com/AWProger)
 - [Мой телеграмм бот](https://t.me/ATTWhiteBot)
 - [Моя телеграмм группа](https://t.me/AWProgramer)
-
+___
 ## 🔭Мои сайты
 - [d50.su](https://d50.su)
 - [awprog.ru](https://awprog.ru)
-
+___
 <!--
 **AWProger/AWProger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
