@@ -33,7 +33,9 @@ ___
 - CSS
 - JavaScript
 
+##Сертификаты
 
+-**Stepic** [Pythone](https://stepik.org/cert/2370256)
 
 
 ## Контакты
