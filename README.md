@@ -1,6 +1,7 @@
 # Анатолий Белый
 
-Начинающий программист на Python. Первую строчку кода написал 16 апреля 2022года. Но не понял что это было!)
+Активно пишу код с ноября 2023
+___
 <p align="center">
  <img width="600" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
