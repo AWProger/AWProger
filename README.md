@@ -25,7 +25,7 @@ ___
 
 
 ## Контакты
-- **Телеграм:** [@AWhiteProgramer](https://t.me/AWhiteProgramer)
+- **Телеграм:** [@AWhiteProgramer](https://t.me/AWProgramer)
 - **Email:** Lenn.white@yandex.ru
 - **Мой Глаз бога:** [@I_god_im_bot](https://t.me/I_god_im_bot)
 
