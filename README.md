@@ -6,7 +6,16 @@ ___
 <p align="center">
  <img width="600" src=https://wakatime.com/share/@018d9ffb-ef5f-4680-876e-e2b0bb1804e4/188f1707-1d92-4e16-b471-682bb828ebd2.svg alt="snake"/>
 </p>
-
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=AWProger&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AWProger&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
 ### Обо мне
 
 Привет! Если ты здесь, то, возможно, уже видел мои проекты или читал мои статьи.
