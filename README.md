@@ -16,6 +16,9 @@ ___
     </td>
   </tr>
 </table>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AWProger)
+
 ### Обо мне
 
 Привет! Если ты здесь, то, возможно, уже видел мои проекты или читал мои статьи.
