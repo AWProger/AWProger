@@ -1,12 +1,12 @@
 
 # 🐍𝔸𝕟𝕒𝕥𝕠𝕝𝕪 𝕎ℙ𝕣𝕠𝕘🐍
+
 ⚡[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=33F79D&center=true&vCenter=true&random=false&width=435&lines=I+have+been+actively+writing+code;Since+November+2023)](https://git.io/typing-svg)⚡
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AWProger)
+
 ___
 
-<p align="center">
- <img width="600" src=https://wakatime.com/share/@018d9ffb-ef5f-4680-876e-e2b0bb1804e4/188f1707-1d92-4e16-b471-682bb828ebd2.svg alt="snake"/>
-</p>
 <table>
   <tr>
     <td>
@@ -16,12 +16,11 @@ ___
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AWProger&layout=compact"/>
    </td>
   </tr>
-</table>
-    
+</table> 
 
-
-
-
+<p align="center">
+ <img width="600" src=https://wakatime.com/share/@018d9ffb-ef5f-4680-876e-e2b0bb1804e4/188f1707-1d92-4e16-b471-682bb828ebd2.svg alt="snake"/>
+</p>
 ___
 ### 😄Обо мне
 
