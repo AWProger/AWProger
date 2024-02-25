@@ -48,7 +48,7 @@ ___
 ___
 ## ✨Контакты
 - **Телеграм:** [@AWhiteProgramer](https://t.me/AWProgramer)
-- **Email:** Lenn.white@yandex.ru
+- **Email:** awprog@mail.ru
 - **Мой Глаз бога:** [@I_god_im_bot](https://t.me/I_god_im_bot)
 ___
 ## 💬Ссылки
