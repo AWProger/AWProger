@@ -1,7 +1,7 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AWProger)
 # 🐍𝔸𝕟𝕒𝕥𝕠𝕝𝕪 𝕎ℙ𝕣𝕠𝕘🐍
 
-⚡[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=33F79D&center=true&vCenter=true&random=false&width=435&lines=I+have+been+actively+writing+code;Since+November+2023)](https://git.io/typing-svg)⚡[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AWProger&layout=compact)](https://github.com/AWProger/github-readme-stats)
+⚡[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=33F79D&center=true&vCenter=true&random=false&width=435&lines=I+have+been+actively+writing+code;Since+November+2023)](https://git.io/typing-svg)⚡
 ___
 
 <p align="center">
@@ -13,7 +13,7 @@ ___
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=AWProger&theme=dark&background=000000" alt="webDev's Github stats" />
     </td>
     <td>
-
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AWProger&layout=compact)](https://github.com/AWProger/github-readme-stats)
     </td>
   </tr>
 </table>
