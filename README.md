@@ -1,3 +1,4 @@
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AWProger)
 # 🐍🐍𝔄𝔫𝔞𝔱𝔬𝔩𝔶 𝕎𝐩ℝ๏Ⓖ
 
 ⚡Активно пишу код с ноября 2023⚡
@@ -17,7 +18,7 @@ ___
   </tr>
 </table>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AWProger)
+
 ___
 ### 😄Обо мне
 
