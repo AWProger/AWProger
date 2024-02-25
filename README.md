@@ -1,7 +1,7 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AWProger)
 # 🐍𝔸𝕟𝕒𝕥𝕠𝕝𝕪 𝕎ℙ𝕣𝕠𝕘🐍
 
-⚡Активно пишу код с ноября 2023⚡
+⚡Активно пишу код с ноября 2023⚡[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 ___
 
 <p align="center">
