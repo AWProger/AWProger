@@ -13,12 +13,10 @@ ___
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=AWProger&theme=dark&background=000000" alt="webDev's Github stats" />
     </td>
    <td>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AWProger&layout=compact"/> (https://github.com/AWProger/github-readme-stats)
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AWProger&layout=compact"/>
    </td>
   </tr>
 </table>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AWProger&layout=compact)](https://github.com/AWProger/github-readme-stats)
     
 
 
