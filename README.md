@@ -59,6 +59,12 @@ ___
 ___
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AWProger&theme=github-compact)](https://github.com/AWProger/github-readme-activity-graph)
+
+___
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AWProger)](https://github.com/AWProger/github-profile-trophy)
+
+___
 <!--
 **AWProger/AWProger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
