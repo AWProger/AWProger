@@ -75,7 +75,7 @@ ___
   ### If u want find me 👨‍🎤 :
 - 💌eMail - awprog@mail.ru
 - ⚔️Telegram - https://t.me/AWProger
-- 🎪Discord - @awprog
+- 🎪Discord - [Ⱥ₩ Programmer](https://discord.gg/3cx2BpzX)
 - 💣GitHub -https://github.com/AWProger
 - 🌌My page - https://awprog.ru/
 - 👥Глаз бога -https://t.me/I_god_im_bot
