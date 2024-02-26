@@ -48,11 +48,6 @@ ___
 
 -**Stepic** [HTML CSS JS](https://stepik.org/cert/2371334)
 ___
-## 💬Ссылки
-- [Мой GitHub](https://github.com/AWProger)
-- [Мой телеграмм бот](https://t.me/ATTWhiteBot)
-- [Моя телеграмм группа](https://t.me/AWProgramer)
-___
 ## 🔭Мои сайты
 - [d50.su](https://d50.su)
 - [awprog.ru](https://awprog.ru)
