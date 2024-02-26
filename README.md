@@ -50,10 +50,15 @@ ___
 
 
 ___
-## ✨Контакты
-- **Телеграм:** [@AWhiteProgramer](https://t.me/AWProgramer)
-- **Email:** awprog@mail.ru
-- **Мой Глаз бога:** [@I_god_im_bot](https://t.me/I_god_im_bot)
+  ### If u want find me 👨‍🎤 :
+- 💌eMail - awprog@mail.ru
+- ⚔️Telegram - https://t.me/AWProger
+- 🎪Discord - @awprog
+- 💣GitHub -https://github.com/AWProger
+- 🌌My page - https://awprog.ru/
+- 👥Глаз бога -https://t.me/I_god_im_bot
+- 💪Stepic - https://stepik.org/users/742335051/profile
+- 🙈🙉🙊
 ___
 ## 💬Ссылки
 - [Мой GitHub](https://github.com/AWProger)
