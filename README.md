@@ -1,6 +1,6 @@
 
 
-# Hello world! My name 𝔸𝕟𝕒𝕥𝕠𝕝𝕪 𝕎ℙ𝕣𝕠𝕘
+# Hello world! My name 𝔸𝕎ℙ𝕣𝕠𝕘
 
 ⚡[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=33F79D&center=true&vCenter=true&random=false&width=435&lines=I+have+been+actively+writing+code;Since+November+2023)](https://git.io/typing-svg)⚡
 
