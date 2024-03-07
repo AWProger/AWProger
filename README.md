@@ -70,9 +70,9 @@ ___
   ### If u want find me 👨‍🎤 :
 - 💌eMail - awprog@mail.ru
 - ⚔️Telegram - https://t.me/AWProger
-- 🎪Discord - [Ⱥ₩ Programmer](https://discord.gg/3cx2BpzX)
+- 🎪Discord - [Ⱥ₩ Programmer](https://discord.gg/U6jxUj58)
 - 💣GitHub -https://github.com/AWProger
-- 🌌My page - https://awprog.ru/
+- 🌌My page - ###
 - 👥Глаз бога -https://t.me/I_god_im_bot
 - 💪Stepic - https://stepik.org/users/742335051/profile
 - 🙈🙉🙊
