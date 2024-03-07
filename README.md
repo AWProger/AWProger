@@ -70,7 +70,7 @@ ___
   ### If u want find me 👨‍🎤 :
 - 💌eMail - awprog@mail.ru
 - ⚔️Telegram - https://t.me/AWProger
-- 🎪Discord - [Ⱥ₩ Programmer](https://discord.gg/U6jxUj58)
+- 🎪Discord - [Ⱥ₩ Programmer](https://discord.gg/sfcj4XWrG3)
 - 💣GitHub -https://github.com/AWProger
 - 🌌My page - ###
 - 👥Глаз бога -https://t.me/I_god_im_bot
