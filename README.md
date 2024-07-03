@@ -42,7 +42,7 @@ ___
 ### ⚡Навыки
 - 🐍Python
 - 🚀 HTML, CSS, JavaScript
-- 📊 SQL LITE
+- 📊 MySQL
 
 ___
 ## 📫Сертификаты
