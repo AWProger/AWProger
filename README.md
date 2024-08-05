@@ -77,7 +77,7 @@ ___
 - 🎪Discord - [Ⱥ₩ Programmer](https://discord.gg/sfcj4XWrG3)
 - 💣GitHub -https://github.com/AWProger
 - 🌌My page - ###
-- 👥Глаз бога -https://t.me/I_god_im_bot
+- 👥Глаз бога -https://t.me/Im_god_im_bot
 - 💪Stepic - https://stepik.org/users/742335051/profile
 - 🙈🙉🙊
 ___
@@ -85,18 +85,3 @@ ___
 <p><a href="https://www.donationalerts.com/r/awprog"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="AWProger" /></a></p><br><br>
 
 
-
-<!--
-**AWProger/AWProger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
