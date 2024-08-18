@@ -40,6 +40,9 @@ ___
 ___
 
 ### ⚡Навыки
+- Linux(easy level)
+- Bash
+- 
 - 🐍Python
 - 🚀 HTML, CSS, JavaScript
 - 📊 MySQL
