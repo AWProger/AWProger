@@ -41,12 +41,14 @@ ___
 
 ___
 
-### ⚡Навыки
+### ⚡Skils
 - Linux(easy level)
-- Bash
-- 
+- Bash 
+- JavaScript
+- -PHP 
 - 🐍Python
-- 🚀 HTML, CSS, JavaScript
+- 🚀 HTML, CSS
+- -Laravel, React
 - 📊 MySQL
 
 ___
