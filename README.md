@@ -58,7 +58,7 @@ ___
 -**Stepic** [HTML CSS JS](https://stepik.org/cert/2371334)
 ___
 ## 🔭Мои сайты
-- [d50.su](https://d50.su)
+- [McaAWP](https://mcawp.ru)
 - [McAWP](https://github.com/AWProger)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AWProger&theme=github-compact)](https://github.com/AWProger/github-readme-activity-graph)
