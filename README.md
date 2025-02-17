@@ -80,7 +80,7 @@ ___
 - ⚔️Telegram - https://t.me/AWProger
 - 🎪Discord - [Ⱥ₩ Programmer](https://discord.gg/sfcj4XWrG3)
 - 💣GitHub -https://github.com/AWProger
-- 🌌My page - ###
+- 🌌My page - Maby later
 - 👥Глаз бога -https://t.me/Im_god_im_bot
 - 💪Stepic - https://stepik.org/users/742335051/profile
 - 🙈🙉🙊
