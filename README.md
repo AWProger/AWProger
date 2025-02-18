@@ -58,7 +58,7 @@ ___
 -**Stepic** [SQL](https://stepik.org/cert/2754185)
 ___
 ## 🔭Мои сайты
-- [McaAWP](https://mcawp.ru)
+- [McAWP](https://mcawp.ru)
 - [Личный Сайт](https://awprog.ru)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AWProger&theme=github-compact)](https://github.com/AWProger/github-readme-activity-graph)
