@@ -82,7 +82,7 @@ ___
 - 🎪Discord - [Ⱥ₩ Programmer](https://discord.gg/sfcj4XWrG3)
 - 💣GitHub -https://github.com/AWProger
 - 🌌My page - mcawp.ru
-- 👥Глаз бога -https://t.me/Im_god_im_bot
+- 👥My MemoBOT - https://t.me/MemoTeller_bot
 - 💪Stepic - https://stepik.org/users/742335051/profile
 - 🙈🙉🙊
 ___
