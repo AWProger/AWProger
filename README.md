@@ -36,7 +36,7 @@ ___
 
 ___
 ## ⚡Skils
-
+- Windows(hard Level)
 - Linux(easy level)
 - Bash (easy level)
 - JavaScript (medium level)
