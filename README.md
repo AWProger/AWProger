@@ -81,7 +81,7 @@ ___
 - ⚔️Telegram - https://t.me/AWProger
 - 🎪Discord - [Ⱥ₩ Programmer](https://discord.gg/sfcj4XWrG3)
 - 💣GitHub -https://github.com/AWProger
-- 🌌My page - mcawp.ru
+- 🌌My page - [HEROWORLD - MY GAME (REDIZ)](http://heroworld.ru/?ref=1000002907)
 - 👥My MemoBOT - https://t.me/MemoTeller_bot
 - 💪Stepic - https://stepik.org/users/742335051/profile
 - 🙈🙉🙊
