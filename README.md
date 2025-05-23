@@ -77,8 +77,9 @@ ___
 
 ___
   ### If u want find me 👨‍🎤 :
-- MyGame - heroworld.ru (let's go play)
+
 - 💌eMail - awprog@mail.ru
+- MyGame - https://heroworld.ru (let's go play)
 - ⚔️Telegram - https://t.me/AWProger
 - 🎪Discord - [Ⱥ₩ Programmer](https://discord.gg/sfcj4XWrG3)
 - 💣GitHub -https://github.com/AWProger
