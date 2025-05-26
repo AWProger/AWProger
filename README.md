@@ -49,22 +49,42 @@
 ## 👨‍💻 Обо мне
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33F79D&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Telegram+Bot+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33F79D&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Telegram+Bot+Creator;System+Administrator+%F0%9F%98%82" alt="Typing SVG" />
 </div>
 
 👯 **Люблю открытый код и активно участвую в open-source проектах.**
 
 Привет! Если ты здесь, то, возможно, уже видел мои проекты или читал мои статьи.
 
-Меня зовут А.А, мне 30 лет, я живу в Москве и ищу работу разработчиком в IT. Я увлечен технологиями и программированием, и сейчас активно работаю над собственными проектами:
+Меня зовут А.А, мне 30 лет, я живу в Москве и ищу работу разработчиком в IT. Я увлечен технологиями и программированием, и сейчас активно работаю над собственными проектами.
 
-## 🎮 Проекты
+### 🎯 Карьерные цели
+- 🚀 Стать Senior Full Stack Developer
+- 💼 Найти интересную работу в IT-компании
+- 🌟 Развиваться в направлении DevOps
+- 🎮 Создавать полезные open-source проекты
 
+### 🎮 Мои проекты
+
+#### 🤖 Telegram Bots
 <div align="center">
   
 [![MemoBOT](https://img.shields.io/badge/MemoBOT-Telegram%20Bot-blue)](https://t.me/MemoTeller_bot)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen)](https://t.me/MemoTeller_bot)
+[![Tech](https://img.shields.io/badge/Tech-Python%20|%20aiogram-blue)](https://t.me/MemoTeller_bot)
+
+</div>
+
+#### 🌐 Веб-проекты
+<div align="center">
+  
 [![Personal](https://img.shields.io/badge/Personal-Website-blue)](https://awprog.ru)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen)](https://awprog.ru)
+[![Tech](https://img.shields.io/badge/Tech-HTML%20|%20CSS%20|%20JS-blue)](https://awprog.ru)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://github.com/AWProger)
+[![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)](https://github.com/AWProger)
+[![Tech](https://img.shields.io/badge/Tech-React%20|%20Node.js-blue)](https://github.com/AWProger)
 
 </div>
 
@@ -74,6 +94,30 @@
 - 🔔 Уведомления о важных датах
 - 📊 Статистика и аналитика
 - 🌐 Многоязычная поддержка
+
+## 💼 Ищу работу
+
+<div align="center">
+  
+[![Job](https://img.shields.io/badge/Status-Available%20for%20Work-brightgreen)](https://github.com/AWProger)
+[![Location](https://img.shields.io/badge/Location-Moscow-blue)](https://github.com/AWProger)
+[![Remote](https://img.shields.io/badge/Remote-Welcome-green)](https://github.com/AWProger)
+
+</div>
+
+### 🎯 Предпочтения
+- 💻 Full Stack / Backend разработка
+- 🌐 Веб-разработка
+- 🤖 Разработка ботов
+- 🐳 DevOps практики
+- 🎨 UI/UX дизайн
+
+### 🎮 Текущие задачи
+- [ ] Улучшение существующих проектов
+- [ ] Изучение новых технологий
+- [ ] Создание портфолио
+- [ ] Поиск интересных проектов
+- [ ] Развитие в DevOps направлении
 
 ## 🛠️ Технический стек
 
