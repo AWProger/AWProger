@@ -6,7 +6,7 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AWProger)
 [![GitHub followers](https://img.shields.io/github/followers/AWProger?label=Follow&style=social)](https://github.com/AWProger)
-[![GitHub stars](https://img.shields.io/github/stars/AWProger?style=social)](https://github.com/AWProger)
+[![GitHub stars](https://img.shields.io/badge/GitHub-stars-yellow)](https://github.com/AWProger)
 
 </div>
 
@@ -15,8 +15,7 @@
 <div align="center">
   
 [![Donate](https://img.shields.io/badge/Donate-DonationAlerts-orange)](https://www.donationalerts.com/r/awprog)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/awprog)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/awprog)
+[![ЮMoney](https://img.shields.io/badge/ЮMoney-Donate-red)](https://yoomoney.ru/to/410014553363599)
 
 </div>
 
