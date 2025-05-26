@@ -15,6 +15,20 @@
 <div align="center">
   
 [![Donate](https://img.shields.io/badge/Donate-DonationAlerts-orange)](https://www.donationalerts.com/r/awprog)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/awprog)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/awprog)
+
+</div>
+
+## 🎯 Цели на 2024
+
+<div align="center">
+  
+[![Goals](https://img.shields.io/badge/Goals-2024-33F79D)](https://github.com/AWProger)
+[![Python](https://img.shields.io/badge/Python-Advanced-blue)](https://github.com/AWProger)
+[![React](https://img.shields.io/badge/React-Advanced-61DAFB)](https://github.com/AWProger)
+[![Node.js](https://img.shields.io/badge/Node.js-Advanced-339933)](https://github.com/AWProger)
+[![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED)](https://github.com/AWProger)
 
 </div>
 
@@ -45,8 +59,22 @@
 
 Меня зовут А.А, мне 30 лет, я живу в Москве и ищу работу разработчиком в IT. Я увлечен технологиями и программированием, и сейчас активно работаю над собственными проектами:
 
-### 🎮 Проекты
-- **Telegram-бот Напоминатель**: Умный помощник для управления расписанием и важными датами
+## 🎮 Проекты
+
+<div align="center">
+  
+[![MemoBOT](https://img.shields.io/badge/MemoBOT-Telegram%20Bot-blue)](https://t.me/MemoTeller_bot)
+[![Personal](https://img.shields.io/badge/Personal-Website-blue)](https://awprog.ru)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://github.com/AWProger)
+
+</div>
+
+### 📱 Telegram-бот Напоминатель
+- 🤖 Умный помощник для управления расписанием
+- 📅 Создание и удаление напоминаний
+- 🔔 Уведомления о важных датах
+- 📊 Статистика и аналитика
+- 🌐 Многоязычная поддержка
 
 ## 🛠️ Технический стек
 
@@ -117,23 +145,57 @@
 
 </div>
 
+## 📚 Обучение
+
+<div align="center">
+  
+[![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com)
+[![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org)
+[![Stepik](https://img.shields.io/badge/Stepik-Profile-blue)](https://stepik.org/users/742335051/profile)
+
+</div>
+
+## 🎨 Дизайн и Креатив
+
+<div align="center">
+  
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)
+[![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
+[![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
+
+</div>
+
+## 🌟 Навыки и опыт
+
+<div align="center">
+  
+[![Frontend](https://img.shields.io/badge/Frontend-Expert-33F79D)](https://github.com/AWProger)
+[![Backend](https://img.shields.io/badge/Backend-Advanced-blue)](https://github.com/AWProger)
+[![DevOps](https://img.shields.io/badge/DevOps-Intermediate-orange)](https://github.com/AWProger)
+[![UI/UX](https://img.shields.io/badge/UI/UX-Advanced-purple)](https://github.com/AWProger)
+
+</div>
+
 ## 📫 Связь со мной
 
 <div align="center">
   
 [![Email](https://img.shields.io/badge/Email-awprog@mail.ru-red)](mailto:awprog@mail.ru)
-[![Game](https://img.shields.io/badge/MyGame-HEROWORLD-green)](https://heroworld.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-AWProger-blue)](https://t.me/AWProger)
 [![Discord](https://img.shields.io/badge/Discord-Ⱥ₩%20Programmer-purple)](https://discord.gg/sfcj4XWrG3)
 [![GitHub](https://img.shields.io/badge/GitHub-AWProger-black)](https://github.com/AWProger)
-[![HEROWORLD](https://img.shields.io/badge/HEROWORLD-MY%20GAME%20(REDIZ)-orange)](http://heroworld.ru/?ref=1000002907)
-[![MemoBOT](https://img.shields.io/badge/MemoBOT-Telegram%20Bot-blue)](https://t.me/MemoTeller_bot)
-[![Stepic](https://img.shields.io/badge/Stepic-Profile-blue)](https://stepik.org/users/742335051/profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/awprog)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/awprog)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/awprog)
 
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AWProger&label=Profile%20views&color=0e75b6&style=flat" alt="AWProger" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/AWProger/AWProger/blob/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 </div>
 
 
