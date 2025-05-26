@@ -8,8 +8,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/AWProger?label=Follow&style=social)](https://github.com/AWProger)
 [![GitHub stars](https://img.shields.io/badge/GitHub-stars-yellow)](https://github.com/AWProger)
 
-
 </div>
+
+---
 
 ## 💝 Поддержка проекта
 
@@ -19,6 +20,8 @@
 [![ЮMoney](https://img.shields.io/badge/ЮMoney-Donate-red)](https://yoomoney.ru/to/410014553363599)
 
 </div>
+
+---
 
 ## 🎯 Цели на 2024
 
@@ -31,6 +34,8 @@
 [![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED)](https://github.com/AWProger)
 
 </div>
+
+---
 
 ## 📊 Статистика
 
@@ -46,6 +51,8 @@
 <div align="center">
   <img width="600" src="https://wakatime.com/share/@018d9ffb-ef5f-4680-876e-e2b0bb1804e4/188f1707-1d92-4e16-b471-682bb828ebd2.svg" alt="snake"/>
 </div>
+
+---
 
 ## 👨‍💻 Обо мне
 
@@ -70,9 +77,9 @@
 #### 🤖 Telegram Bots
 <div align="center">
   
-[![MemoBOT](https://img.shields.io/badge/MemoBOT-Telegram%20Bot-blue)](https://t.me/MemoTeller_bot)
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen)](https://t.me/MemoTeller_bot)
-[![Tech](https://img.shields.io/badge/Tech-Python%20|%20aiogram-blue)](https://t.me/MemoTeller_bot)
+[![MemoBOT](https://img.shields.io/badge/MemoBOT-Telegram%20Bot-blue?style=for-the-badge)](https://t.me/MemoTeller_bot)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)](https://t.me/MemoTeller_bot)
+[![Tech](https://img.shields.io/badge/Tech-Python%20|%20aiogram-blue?style=for-the-badge)](https://t.me/MemoTeller_bot)
 
 </div>
 
@@ -81,9 +88,9 @@
 #### 🌐 Веб-проекты
 <div align="center">
   
-[![Personal](https://img.shields.io/badge/Personal-Website-blue)](https://awprog.ru)
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen)](https://awprog.ru)
-[![Tech](https://img.shields.io/badge/Tech-HTML%20|%20CSS%20|%20JS-blue)](https://awprog.ru)
+[![Personal](https://img.shields.io/badge/Personal-Website-blue?style=for-the-badge)](https://awprog.ru)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)](https://awprog.ru)
+[![Tech](https://img.shields.io/badge/Tech-HTML%20|%20CSS%20|%20JS-blue?style=for-the-badge)](https://awprog.ru)
 
 </div>
 
@@ -91,13 +98,15 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://github.com/AWProger)
-[![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)](https://github.com/AWProger)
-[![Tech](https://img.shields.io/badge/Tech-React%20|%20Node.js-blue)](https://github.com/AWProger)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge)](https://github.com/AWProger)
+[![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)](https://github.com/AWProger)
+[![Tech](https://img.shields.io/badge/Tech-React%20|%20Node.js-blue?style=for-the-badge)](https://github.com/AWProger)
 
 </div>
 
 Разрабатываемое портфолио для демонстрации моих навыков и проектов.
+
+---
 
 ## 💼 Ищу работу
 
@@ -123,6 +132,8 @@
 - [ ] Поиск интересных проектов
 - [ ] Развитие в DevOps направлении
 
+---
+
 ## 🛠️ Технический стек
 
 <div align="center">
@@ -137,6 +148,8 @@
 
 </div>
 
+---
+
 ## 📜 Сертификаты
 
 <div align="center">
@@ -148,6 +161,8 @@
 
 </div>
 
+---
+
 ## 🌐 Мои сайты
 
 <div align="center">
@@ -157,6 +172,8 @@
 
 </div>
 
+---
+
 ## 📈 Активность
 
 <div align="center">
@@ -165,6 +182,8 @@
 
 </div>
 
+---
+
 ## 🏆 Достижения
 
 <div align="center">
@@ -172,6 +191,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=AWProger)](https://github.com/AWProger/github-profile-trophy)
 
 </div>
+
+---
 
 ## 🛠️ Инструменты и технологии
 
@@ -192,6 +213,8 @@
 
 </div>
 
+---
+
 ## 📚 Обучение
 
 <div align="center">
@@ -201,6 +224,8 @@
 [![Stepik](https://img.shields.io/badge/Stepik-Profile-blue)](https://stepik.org/users/742335051/profile)
 
 </div>
+
+---
 
 ## 🎨 Дизайн и Креатив
 
@@ -212,6 +237,8 @@
 
 </div>
 
+---
+
 ## 🌟 Навыки и опыт
 
 <div align="center">
@@ -222,6 +249,22 @@
 [![UI/UX](https://img.shields.io/badge/UI/UX-Advanced-purple)](https://github.com/AWProger)
 
 </div>
+
+---
+
+### ✨ Ключевые Навыки
+
+<div align="center">
+  
+[![Python](https://img.shields.io/badge/Python-Expert-blueviolet?style=for-the-badge&logo=python)](https://www.python.org)
+[![React](https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
+[![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?style=for-the-badge&logo=docker)](https://www.docker.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
+
+</div>
+
+---
 
 ## 📫 Связь со мной
 
