@@ -23,20 +23,6 @@
 
 ---
 
-## 🎯 Цели на 2024
-
-<div align="center">
-  
-[![Goals](https://img.shields.io/badge/Goals-2024-33F79D)](https://github.com/AWProger)
-[![Python](https://img.shields.io/badge/Python-Advanced-blue)](https://github.com/AWProger)
-[![React](https://img.shields.io/badge/React-Advanced-61DAFB)](https://github.com/AWProger)
-[![Node.js](https://img.shields.io/badge/Node.js-Advanced-339933)](https://github.com/AWProger)
-[![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED)](https://github.com/AWProger)
-
-</div>
-
----
-
 ## 📊 Статистика
 
 <div align="center">
