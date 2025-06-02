@@ -229,11 +229,7 @@
 ## 📚 Обучение
 
 <div align="center">
-  
-[![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com)
-[![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org)
 [![Stepik](https://img.shields.io/badge/Stepik-Profile-blue)](https://stepik.org/users/742335051/profile)
-
 </div>
 
 ---
@@ -242,7 +238,6 @@
 
 <div align="center">
   
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)
 [![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
 [![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
 
@@ -286,8 +281,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-AWProger-blue)](https://t.me/AWProger)
 [![Discord](https://img.shields.io/badge/Discord-Ⱥ₩%20Programmer-purple)](https://discord.gg/sfcj4XWrG3)
 [![GitHub](https://img.shields.io/badge/GitHub-AWProger-black)](https://github.com/AWProger)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/awprog)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/awprog)
 
 </div>
 
