@@ -215,7 +215,9 @@
 ## 📚 Обучение
 
 <div align="center">
+  
 [![Stepik](https://img.shields.io/badge/Stepik-Profile-blue)](https://stepik.org/users/742335051/profile)
+
 </div>
 
 ---
