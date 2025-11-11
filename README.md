@@ -268,7 +268,6 @@
   <img src="https://komarev.com/ghpvc/?username=AWProger&label=Profile%20views&color=0e75b6&style=flat" alt="AWProger" />
 </div>
 
----
 
 ## 💝 Поддержка проекта
 
@@ -279,4 +278,4 @@
 
 </div>
 
----
+
