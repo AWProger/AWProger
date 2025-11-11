@@ -5,8 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=33F79D&center=true&vCenter=true&random=false&width=435&lines=I+have+been+actively+writing+code;Since+November+2023)](https://git.io/typing-svg)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AWProger)
-[![GitHub followers](https://img.shields.io/github/followers/AWProger?label=Follow&style=social)](https://github.com/AWProger)
-[![GitHub stars](https://img.shields.io/badge/GitHub-stars-yellow)](https://github.com/AWProger)
 
 </div>
 
@@ -268,7 +266,6 @@
   <img src="https://komarev.com/ghpvc/?username=AWProger&label=Profile%20views&color=0e75b6&style=flat" alt="AWProger" />
 </div>
 
-
 ## 💝 Поддержка проекта
 
 <div align="center">
@@ -277,5 +274,3 @@
 [![ЮMoney](https://img.shields.io/badge/ЮMoney-Donate-red)](https://yoomoney.ru/to/410014553363599)
 
 </div>
-
-
