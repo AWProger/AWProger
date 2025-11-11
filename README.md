@@ -8,10 +8,6 @@
 
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33F79D&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Telegram+Bot+Creator;System+Administrator+%F0%9F%98%82" alt="Typing SVG" />
-</div>
-
 ## 📊 Статистика
 
 <div align="center">
@@ -30,6 +26,10 @@
 ---
 
 ## 👨‍💻 Обо мне
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33F79D&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Telegram+Bot+Creator;System+Administrator+%F0%9F%98%82" alt="Typing SVG" />
+</div>
 
 👯 **Люблю открытый код и активно участвую в open-source проектах.**
 
