@@ -1,10 +1,8 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Привет! Меня зовут 𝔸𝕎ℙ𝕣𝕠𝕘
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Привет! Меня зовут 𝔸𝕎ℙ𝕣𝕠𝕘 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AWProger)
 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=33F79D&center=true&vCenter=true&random=false&width=435&lines=I+have+been+actively+writing+code;Since+November+2023)](https://git.io/typing-svg)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AWProger)
 
 </div>
 
