@@ -47,51 +47,15 @@
 
 ### 📁 Мои проекты
 
+Later
+
 #### 🤖 Telegram Bots
 
-<div align="center">
-
-[![MemoBOT](https://img.shields.io/badge/MemoBOT-Telegram%20Bot-blue?style=for-the-badge)](https://t.me/MemoTeller_bot)
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)](https://t.me/MemoTeller_bot)
-[![Tech](https://img.shields.io/badge/Tech-Python%20|%20aiogram-blue?style=for-the-badge)](https://t.me/MemoTeller_bot)
-
-</div>
-
-Умный помощник для управления расписанием, создания и удаления напоминаний, с поддержкой уведомлений и базовой аналитики.
-
-#### 🌐 Веб-проекты
-
-<div align="center">
-
-[![Personal](https://img.shields.io/badge/Personal-Website-blue?style=for-the-badge)](https://awprog.ru)
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)](https://awprog.ru)
-[![Tech](https://img.shields.io/badge/Tech-HTML%20|%20CSS%20|%20JS-blue?style=for-the-badge)](https://awprog.ru)
-
-</div>
-
-Мой личный вебсайт с информацией обо мне, проектах и контактах.
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge)](https://github.com/AWProger)
-[![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)](https://github.com/AWProger)
-[![Tech](https://img.shields.io/badge/Tech-React%20|%20Node.js-blue?style=for-the-badge)](https://github.com/AWProger)
-
-</div>
-
-Разрабатываемое портфолио для демонстрации моих навыков и проектов.
+later
 
 ---
 
 ## 💼 Ищу работу
-
-<div align="center">
-
-[![Job](https://img.shields.io/badge/Status-Available%20for%20Work-brightgreen)](https://github.com/AWProger)
-[![Location](https://img.shields.io/badge/Location-Moscow-blue)](https://github.com/AWProger)
-[![Remote](https://img.shields.io/badge/Remote-Welcome-green)](https://github.com/AWProger)
-
-</div>
 
 Привет! Я открыт к предложениям о работе в IT-сфере. Если у вас есть интересные проекты или вакансии, соответствующие моему стеку и опыту, не стесняйтесь связаться со мной!
 
