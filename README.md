@@ -105,19 +105,6 @@ later
 
 </div>
 
----
-
-## 🌐 Мои сайты
-
-<div align="center">
-
-[![McAWP](https://img.shields.io/badge/McAWP-Website-green)](https://mcawp.ru)
-[![Personal](https://img.shields.io/badge/Personal-Website-blue)](https://awprog.ru)
-
-</div>
-
----
-
 ## 📈 Активность
 
 <div align="center">
@@ -141,7 +128,6 @@ later
 -   🏆 **Разработал Telegram-бота**, которым активно пользуются 50 человек.
 -   🌐 **Создал и поддерживаю личный сайт**, демонстрирующий мои навыки.
 -   📚 **Успешно завершил курсы** по Python, Web-разработке и SQL на Stepik.
--   🔥 **Получил N звезд на GitHub** за свои проекты.
 
 ---
 
@@ -165,70 +151,6 @@ later
 </div>
 
 ---
-
-## 📚 Обучение
-
-<div align="center">
-
-[![Stepik](https://img.shields.io/badge/Stepik-Profile-blue)](https://stepik.org/users/742335051/profile)
-
-</div>
-
----
-
-## 🎨 Дизайн и Креатив
-
-<div align="center">
-
-[![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
-[![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
-
-</div>
-
----
-
-## 🌟 Навыки и опыт (Уровень владения)
-
-<div align="center">
-
-[![Frontend](https://img.shields.io/badge/Frontend-Expert-33F79D?style=for-the-badge)](https://github.com/AWProger)
-[![Backend](https://img.shields.io/badge/Backend-Advanced-blue?style=for-the-badge)](https://github.com/AWProger)
-[![DevOps](https://img.shields.io/badge/DevOps-Intermediate-orange?style=for-the-badge)](https://github.com/AWProger)
-[![UI/UX](https://img.shields.io/badge/UI/UX-Advanced-purple?style=for-the-badge)](https://github.com/AWProger)
-[![Python](https://img.shields.io/badge/Python-Advanced-blueviolet?style=for-the-badge)](https://github.com/AWProger)
-
-</div>
-
----
-
-### ✨ Ключевые Навыки (Визуально)
-
-<div align="center">
-
-[![Python](https://img.shields.io/badge/Python-Expert-blueviolet?style=for-the-badge&logo=python)](https://www.python.org)
-[![React](https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
-[![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?style=for-the-badge&logo=docker)](https://www.docker.com/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
-
-</div>
-
----
-
-## 📫 Связь со мной
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-awprog@mail.ru-red)](mailto:awprog@mail.ru)
-[![Telegram](https://img.shields.io/badge/Telegram-AWProger-blue)](https://t.me/AWProger)
-[![Discord](https://img.shields.io/badge/Discord-Ⱥ₩%20Programmer-purple)](https://discord.gg/sfcj4XWrG3)
-[![GitHub](https://img.shields.io/badge/GitHub-AWProger-black)](https://github.com/AWProger)
-
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AWProger&label=Profile%20views&color=0e75b6&style=flat" alt="AWProger" />
-</div>
 
 ## 💝 Поддержка проекта
 
