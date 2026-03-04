@@ -11,11 +11,6 @@
 ## 📊 Статистика
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AWProger&show_icons=true&count_private=true&hide_border=true&title_color=33F79D&icon_color=33F79D&text_color=c9d1d9&bg_color=0d1117" alt="AWProger github stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AWProger&layout=compact&hide_border=true&title_color=33F79D&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
-<div align="center">
   <img width="900" src="https://wakatime.com/share/@018d9ffb-ef5f-4680-876e-e2b0bb1804e4/b0b09441-4e7f-4aae-adeb-be963c8ccda1.svg" alt="snake"/>
 </div>
 
