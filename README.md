@@ -11,10 +11,6 @@
 ## 📊 Статистика
 
 <div align="center">
-  <img width="900" src="https://wakatime.com/share/@018d9ffb-ef5f-4680-876e-e2b0bb1804e4/b0b09441-4e7f-4aae-adeb-be963c8ccda1.svg" alt="snake"/>
-</div>
-
-<div align="center">
   <img width="600" src="https://wakatime.com/share/@018d9ffb-ef5f-4680-876e-e2b0bb1804e4/188f1707-1d92-4e16-b471-682bb828ebd2.svg" alt="snake"/>
 </div>
 
