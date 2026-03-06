@@ -108,12 +108,6 @@ later
 
 ## 🏆 Достижения
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AWProger)](https://github.com/AWProger/github-profile-trophy)
-
-</div>
-
 ### ✨ Основные Достижения
 
 -   🏆 **Разработал Telegram-бота**, которым активно пользуются 50 человек.
