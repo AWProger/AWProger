@@ -8,8 +8,6 @@
 
 </div>
 
-## 🐍 Мой график контрибуций
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/AWProger/AWProger/output/github-snake-dark.svg" alt="Snake animation" />
