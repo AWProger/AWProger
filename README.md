@@ -16,12 +16,6 @@
 
 </div>
 
-> ⚠️ *Если змейка не отображается — нужно запустить GitHub Action (инструкция ниже)*
->
-> 1. Убедись что файл лежит в `.github/workflows/snake.yml` (не в корне!)
-> 2. Зайди в **Settings → Actions → General** → поставь **"Read and write permissions"**
-> 3. Зайди в **Actions** → выбери "Generate Snake" → **"Run workflow"** → **"Run workflow"** (зелёная кнопка)
-
 ---
 
 ## 👨‍💻 Обо мне
