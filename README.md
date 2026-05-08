@@ -110,20 +110,6 @@
 
 ---
 
-## 📈 Активность
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AWProger&theme=tokyo-night)](https://github.com/AWProger/github-readme-activity-graph)
-
-</div>
-
-<div align="center">
-  <img width="600" src="https://wakatime.com/share/@018d9ffb-ef5f-4680-876e-e2b0bb1804e4/188f1707-1d92-4e16-b471-682bb828ebd2.svg" alt="WakaTime Stats"/>
-</div>
-
----
-
 ## 🏆 Достижения
 
 <div align="center">
