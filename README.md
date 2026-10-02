@@ -14,11 +14,6 @@
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AWProger&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Graph" />
-
-</div>
 
 ---
 
