@@ -93,8 +93,10 @@
 | 🤖 Telegram-бот | Пока в разработке  | 0+ |
 
 ---
-</div>
+
 ## 📊 GitHub Статистика
+
+</div>
 
 <div align="center">
 
