@@ -109,25 +109,6 @@
 
 </div>
 
----
-
-## 🏆 Достижения
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AWProger&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)]
-[![trophy](https://github-profile-trophy.vercel.app/?username=AWProger&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
-
-### ✨ Основные
-
-- 🏆 **Разработал Telegram-бота** - активно используют 50+ человек
-- 🌐 **Создал и поддерживаю личный сайт** - демонстрация навыков и портфолио
-- 📚 **Завершил курсы** по Python, Web-разработке и SQL на Stepik
-- 🔥 **3+ года** активной разработки и обучения
-
----
-
 ## 📜 Сертификаты
 
 <div align="center">
