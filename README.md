@@ -68,8 +68,9 @@
 </div>
 
 ---
-<div align="center">
 ## 📁 Мои проекты
+
+<div align="center">
 
 ### 🌐 Веб-проекты
 
