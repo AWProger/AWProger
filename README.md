@@ -2,9 +2,11 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AWProger)
 
+🇷🇺 Русский | [🇬🇧 English](README.en.md)
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=33F79D&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer+%7C+Moscow;Writing+code+since+November+2023;2.5%2B+years+of+passion+for+coding)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=33F79D&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer+%7C+Moscow;Python+%2F+Django+%C2%B7+React+%C2%B7+Docker;Building+Tattoo+CRM)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,21 +21,23 @@
 
 ## 👨‍💻 Обо мне
 
-Привет! Меня зовут А.А, мне 30 лет, живу в Москве. Увлечён технологиями и программированием - активно работаю над собственными проектами и участвую в open-source.
+Привет! Меня зовут А.А, мне 30 лет, живу в Москве. Full Stack разработчик: делаю веб-сервисы от базы данных и API до интерфейса и деплоя. Пишу код с ноября 2023 года, сейчас основной фокус — Python/Django и React.
 
-👯 **Люблю открытый код и делюсь своими наработками с сообществом.**
+### 💡 Чем могу быть полезен
 
-### 🌱 Карьерные цели
+- 🔧 **Backend:** REST API на Django + DRF, PostgreSQL, Redis, фоновые задачи, тесты на pytest
+- 🎨 **Frontend:** SPA на React, адаптивная вёрстка, работа с графиками и формами
+- 🐳 **DevOps:** Docker / docker-compose, Nginx, gunicorn, деплой на VPS, SSL (certbot), CI на GitHub Actions
+- 🌐 **Сайты под ключ:** лендинги и сайты для бизнеса — от дизайна в Figma до запуска
 
-- 🚀 Стать Senior Full Stack Developer
-- 💼 Найти интересную работу в IT-компании
-- ✨ Развиваться в направлении DevOps
-- 📚 Создавать полезные open-source проекты
-- 🌟 Выступать на конференциях (в перспективе)
+### 🌱 Куда расту
+
+- 🚀 Senior Full Stack Developer
+- ✨ DevOps и инфраструктура
 
 ---
 
-## ️ Технический стек
+## 🛠️ Технический стек
 
 <div align="center">
 
@@ -44,9 +48,14 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
@@ -59,15 +68,41 @@
 | Категория | Технологии | Уровень |
 |-----------|-----------|---------|
 | 🌐 **Frontend** | HTML, CSS, JavaScript, React | Продвинутый / Средний |
-| 🔧 **Backend** | Python, PHP, Laravel, Node.js | Базовый / Средний |
-| 🗄️ **Базы данных** | MySQL | Базовый |
-| 🐳 **DevOps** | Docker, Bash, Git | Базовый |
+| 🔧 **Backend** | Python, Django, DRF, PHP, Laravel, Node.js | Средний / Базовый |
+| 🗄️ **Базы данных** | PostgreSQL, Redis, MySQL | Средний / Базовый |
+| 🐳 **DevOps** | Docker, Nginx, GitHub Actions, Bash, Git | Средний / Базовый |
 | 💻 **ОС** | Windows, Linux | Продвинутый / Начальный |
 | 🎨 **Дизайн** | Figma, Photoshop, Illustrator | Средний |
 
 </div>
 
 ---
+## 🔥 Сейчас работаю над
+
+### 🖋️ Tattoo CRM
+
+Платформа для тату-студий, мастеров и их клиентов — CRM и соцсеть в одном продукте.
+
+- 📅 **Онлайн-запись** — расписание мастеров, рабочие дни и слоты, напоминания о сеансах
+- 🏢 **Студии** — команда мастеров, клиентская база, выходные, расходы и зарплаты
+- 🖼️ **Портфолио и лента** — посты, альбомы, сторис, лайки, комментарии, хэштеги, отзывы
+- 💬 **Общение** — личные сообщения, уведомления, поддержка с тикетами
+- 🎁 **Лояльность** — бонусный баланс и реферальная программа
+
+<div align="center">
+
+![Django](https://img.shields.io/badge/Django_5-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL_16-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+</div>
+
+---
+
 ## 📁 Мои проекты
 
 <div align="center">
@@ -79,7 +114,7 @@
 | 📡 CraftRadar | Мониторинг серверов Minecraft | [craftradar.ru](https://craftradar.ru/) |
 | 💼 AWProg | Мой личный сайт-портфолио | [awprog.ru](https://awprog.ru/) |
 | ⛏️ MCAWP | Мой Minecraft сервер | [mcawp.ru](https://mcawp.ru/) |
-| 🖋️ Tattoo CRM | CRM для тату-студий и мастеров: онлайн-запись, расписание, локации, чаты (Django + DRF, React, PostgreSQL, Redis, Docker) | 🔒 В разработке |
+| 🖋️ Tattoo CRM | CRM и соцсеть для тату-студий (подробнее — в блоке выше) | 🔒 В разработке |
 
 ### 🤝 Проекты для клиентов
 
@@ -87,17 +122,11 @@
 |--------|----------|--------|
 | 🍕 MasterPo | Сайт для пиццерии | [masterpo.su](https://masterpo.su/) |
 
-### 🤖 Telegram Боты
-
-| Бот | Описание | Пользователи |
-|-----|----------|-------------|
-| 🤖 Telegram-бот | Пока в разработке  | 0+ |
+</div>
 
 ---
 
 ## 📊 GitHub Статистика
-
-</div>
 
 <div align="center">
 
@@ -109,7 +138,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AWProger&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AWProger&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
@@ -117,7 +146,7 @@
 
 <div align="center">
 
-[![Stepic](https://img.shields.io/badge/Stepik-Profile-4B8BBE?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABhSURBVDhPY2AYBYMBMDIy/gcABgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYAAAD//wMABgAF/wphcwAAAABJRU5ErkJggg==)](https://stepik.org/users/742335051/profile)
+[![Stepic](https://img.shields.io/badge/Stepik-Profile-4B8BBE?style=for-the-badge)](https://stepik.org/users/742335051/profile)
 [![Python](https://img.shields.io/badge/Python-Certificate-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://stepic.org/cert/2370256)
 [![Web](https://img.shields.io/badge/HTML%2FCSS%2FJS-Certificate-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://stepic.org/cert/2371334)
 [![SQL](https://img.shields.io/badge/SQL-Certificate-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://stepic.org/cert/2754185)
@@ -128,7 +157,11 @@
 
 ## 💼 Открыт к предложениям
 
-Ищу интересную работу в IT. Если у вас есть проекты или вакансии - буду рад обсудить!
+Ищу работу Full Stack / Python-разработчиком, а также беру проекты на разработку сайтов и веб-сервисов.
+
+- 🏢 Рассматриваю полную занятость: удалённо или в Москве
+- 🤝 Фриланс: сайты для бизнеса, CRM, API, Telegram-интеграции
+- ✉️ Быстрее всего ответ — в Telegram
 
 ## 📫 Контакты
 
@@ -145,7 +178,7 @@
 
 <div align="center">
 
-[![Donate](https://img.shields.io/badge/DonationAlerts-F57B20?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABhSURBVDhPY2AYBYMBMDIy/gcABgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYAAAD//wMABgAF/wphcwAAAABJRU5ErkJggg==&logoColor=white)](https://www.donationalerts.com/r/awprog)
+[![Donate](https://img.shields.io/badge/DonationAlerts-F57B20?style=for-the-badge)](https://www.donationalerts.com/r/awprog)
 [![ЮMoney](https://img.shields.io/badge/ЮMoney-8B3FFD?style=for-the-badge&logo=yoomoney&logoColor=white)](https://yoomoney.ru/to/410014553363599)
 
 </div>
