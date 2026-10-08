@@ -12,14 +12,14 @@
 
 ## 👨‍💻 About me
 
-Full Stack developer based in Moscow, 30 years old. I build web services end to end — database and API, UI, deployment. Writing code since November 2023; my main focus now is Python/Django and React.
+Full Stack developer based in Moscow, 30 years old. I build web services end to end - database and API, UI, deployment. Writing code since November 2023; my main focus now is Python/Django and React.
 
 ### 💡 What I do
 
 - 🔧 **Backend:** REST APIs with Django + DRF, PostgreSQL, Redis, background jobs, pytest
 - 🎨 **Frontend:** React SPAs, responsive layouts, charts and forms
 - 🐳 **DevOps:** Docker / docker-compose, Nginx, gunicorn, VPS deployment, SSL (certbot), GitHub Actions CI
-- 🌐 **Turnkey websites:** business sites and landing pages — from Figma design to launch
+- 🌐 **Turnkey websites:** business sites and landing pages - from Figma design to launch
 
 ---
 
@@ -46,13 +46,13 @@ Full Stack developer based in Moscow, 30 years old. I build web services end to 
 
 ### 🖋️ Tattoo CRM
 
-A platform for tattoo studios, artists and their clients — a CRM and a social network in one product.
+A platform for tattoo studios, artists and their clients - a CRM and a social network in one product.
 
-- 📅 **Online booking** — artist schedules, work days and time slots, session reminders
-- 🏢 **Studios** — team of artists, client base, holidays, expenses and payroll
-- 🖼️ **Portfolio & feed** — posts, albums, stories, likes, comments, hashtags, reviews
-- 💬 **Communication** — direct messages, notifications, support tickets
-- 🎁 **Loyalty** — bonus balance and referral program
+- 📅 **Online booking** - artist schedules, work days and time slots, session reminders
+- 🏢 **Studios** - team of artists, client base, holidays, expenses and payroll
+- 🖼️ **Portfolio & feed** - posts, albums, stories, likes, comments, hashtags, reviews
+- 💬 **Communication** - direct messages, notifications, support tickets
+- 🎁 **Loyalty** - bonus balance and referral program
 
 ---
 
