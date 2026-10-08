@@ -76,7 +76,7 @@
 
 | Проект | Описание | Ссылка |
 |--------|----------|--------|
-| � CraftRadar | Мониторинг серверов Minecraft | [craftradar.ru](https://craftradar.ru/) |
+| 📡 CraftRadar | Мониторинг серверов Minecraft | [craftradar.ru](https://craftradar.ru/) |
 | 💼 AWProg | Мой личный сайт-портфолио | [awprog.ru](https://awprog.ru/) |
 | ⛏️ MCAWP | Мой Minecraft сервер | [mcawp.ru](https://mcawp.ru/) |
 | 🖋️ Tattoo CRM | CRM для тату-студий и мастеров: онлайн-запись, расписание, локации, чаты (Django + DRF, React, PostgreSQL, Redis, Docker) | 🔒 В разработке |
