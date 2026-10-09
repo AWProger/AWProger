@@ -66,6 +66,7 @@ A platform for tattoo studios, artists and their clients - a CRM and a social ne
 | 💼 AWProg | Personal portfolio website | [awprog.ru](https://awprog.ru/) |
 | ⛏️ MCAWP | My Minecraft server | [mcawp.ru](https://mcawp.ru/) |
 | 🍕 MasterPo | Pizzeria website (client project) | [masterpo.su](https://masterpo.su/) |
+| 🔐 gen_pass | Offline password generator & manager for Windows: entropy-based strength meter, encrypted vault (scrypt + MAC), clipboard auto-clear. Python + Tkinter, no third-party deps | [GitHub](https://github.com/AWProger/gen_pass) · [⬇ Download](https://github.com/AWProger/gen_pass/releases/latest) |
 | 🖋️ Tattoo CRM | CRM & social network for tattoo studios | 🔒 In development |
 
 </div>

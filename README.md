@@ -122,6 +122,12 @@
 |--------|----------|--------|
 | 🍕 MasterPo | Сайт для пиццерии | [masterpo.su](https://masterpo.su/) |
 
+### 🖥️ Программы
+
+| Проект | Описание | Ссылка |
+|--------|----------|--------|
+| 🔐 gen_pass | Оффлайн-генератор и менеджер паролей для Windows: оценка стойкости в битах энтропии, зашифрованное хранилище (scrypt + MAC), автоочистка буфера обмена. Python + Tkinter, без сторонних зависимостей | [GitHub](https://github.com/AWProger/gen_pass) · [⬇ Скачать](https://github.com/AWProger/gen_pass/releases/latest) |
+
 </div>
 
 ---
