@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi! I'm 𝔸𝕎ℙ𝕣𝕠𝕘!
 
-[🇷🇺 Русский](README.md) | 🇬🇧 English
+[🇷🇺 Русский](README.md) | 🇺🇸 English
 
 <div align="center">
 
